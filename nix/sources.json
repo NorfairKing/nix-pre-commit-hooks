@@ -73,15 +73,15 @@
     },
     "ormolu": {
         "homepage": null,
-        "url": "https://github.com/tweag/ormolu/archive/a7076c0f83e5c06ea9067b71171859fa2ba8afd9.tar.gz",
+        "url": "https://github.com/tweag/ormolu/archive/991bf8e24d9adf17a8461521ff62a6d4bd0709d5.tar.gz",
         "owner": "tweag",
         "branch": "master",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz",
         "repo": "ormolu",
         "type": "tarball",
-        "sha256": "1p4n2ja4ciw3qfskn65ggpy37mvgf2sslxqmqn8s8jjarnqcyfny",
+        "sha256": "sha256:1c8g6i7plj5cpvbmn688dixy0n612vd140kriml6v1a832hckxdx",
         "description": "A formatter for Haskell source code",
-        "rev": "a7076c0f83e5c06ea9067b71171859fa2ba8afd9"
+        "rev": "991bf8e24d9adf17a8461521ff62a6d4bd0709d5"
     },
     "hindent": {
         "homepage": null,
